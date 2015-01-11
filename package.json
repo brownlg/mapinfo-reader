@@ -1,0 +1,31 @@
+{
+  "name": "mapinfo-reader",
+  "version": "0.1.0",
+  "description": "NPM module to read MapInfo .TAB files",
+  "main": "index.js",
+  "scripts": {
+    "test":"make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brownlg/mapinfo-reader"
+  },
+  "keywords": [
+    "mapinfo",
+    ".TAB",
+    "map",
+    "gis",
+    "arcgis",
+    "opengis"
+  ],
+  "author": "Lucas Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brownlg/mapinfo-reader/issues"
+  },
+  "homepage": "https://github.com/brownlg/mapinfo-reader",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
